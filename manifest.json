@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Chrome Footer Extension",
+  "name": "Static Footer",
   "description": "This extension shows a footer at the bottom of all chrome tabs",
   "version": "1.0.0",
   "homepage_url": "https://github.com/bbeck/chrome-footer-extension",
